@@ -1,0 +1,13 @@
+.list {
+    background-color: #000;
+    border-radius: 36px;
+    list-style: none;
+    color: black;
+    text-shadow: -1px -1px 0 rgb(223, 209, 18), -1px 0 rgb(223, 209, 18), 1px 1px rgb(223, 209, 18);
+    font-size: 34px;
+    font-weight: 600;
+    padding: 20px;
+    width: 70%;
+    margin: 10px;
+    text-align: left;
+}
